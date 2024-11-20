@@ -1,4 +1,5 @@
 print("hello, i'm gyudam")
 print("Hello this is seongho")
-
-print("유도경 나의 비앙키 2대를 박살냄 ")
+print("seongho is genius")
+print("hello i'm kitae")
+print("유도경 나의 비앙키 2대를 박살냄...")
